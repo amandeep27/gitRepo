@@ -1,2 +1,2 @@
 # gitRepo
-test git repo for learning about the git
+Test repository for learning about the git
